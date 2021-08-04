@@ -1,3 +1,4 @@
+
  branch1
 SNEHA POOJARY@LAPTOP-9KI7BGOS MINGW64 ~/Desktop/ORACLE/Batch926tsl/Gitdemo1 (master)
 $ git config --list
@@ -25,3 +26,7 @@ core.symlinks=false
 core.ignorecase=true
 
 sample test revert-1-branch1
+
+sample test
+hellooooo whyyyyyy uuuuuuuu llllllllllll
+
