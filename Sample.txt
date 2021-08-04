@@ -1,3 +1,4 @@
+ branch1
 SNEHA POOJARY@LAPTOP-9KI7BGOS MINGW64 ~/Desktop/ORACLE/Batch926tsl/Gitdemo1 (master)
 $ git config --list
 diff.astextplain.textconv=astextplain
@@ -22,3 +23,5 @@ core.bare=false
 core.logallrefupdates=true
 core.symlinks=false
 core.ignorecase=true
+
+sample test revert-1-branch1
