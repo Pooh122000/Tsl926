@@ -1,0 +1,5 @@
+created file two after the file 1 that was created by using the git bash.
+lets try commiting this file too......
+$ git status
+On branch branch1
+Changes to be committed:
